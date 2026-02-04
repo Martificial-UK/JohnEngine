@@ -1,0 +1,8 @@
+# Requirements for JohnEngine
+
+- Python 3.8+
+- No external dependencies required for core engine
+psutil==5.9.0
+loguru==0.7.0
+jsonschema==4.19.0
+flask==3.0.0

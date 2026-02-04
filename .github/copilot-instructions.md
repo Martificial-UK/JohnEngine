@@ -1,0 +1,5 @@
+- [x] Project scaffolded as JohnEngine
+- [ ] Engine code moved to src/engine
+- [ ] Add basic tests
+- [ ] Document usage and extensibility
+- [ ] Compile and verify
